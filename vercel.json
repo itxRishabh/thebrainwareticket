@@ -2,8 +2,8 @@
     "version": 2,
     "redirects": [
       {
-        "source": "/",
-        "destination": "/movies",
+        "source": "https://thebrainwareticket.netlify.app/",
+        "destination": "https://thebrainwareticket.netlify.app/movies",
         "permanent": true
       }
     ]
