@@ -1,10 +1,1 @@
-{
-    "version": 2,
-    "redirects": [
-      {
-        "source": "https://thebrainwareticket.netlify.app/",
-        "destination": "https://thebrainwareticket.netlify.app/movies",
-        "permanent": true
-      }
-    ]
-  }
+
